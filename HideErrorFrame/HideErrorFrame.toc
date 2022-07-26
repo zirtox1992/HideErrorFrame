@@ -1,0 +1,3 @@
+## Interface: 90200
+## Title: HideErrorFrame
+core.lua
