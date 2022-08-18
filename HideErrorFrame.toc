@@ -1,3 +1,6 @@
-## Interface: 90200
+## Interface: 11200
 ## Title: HideErrorFrame
+## Notes: HideErrorFrame
+## Author: Trckster
+
 core.lua
